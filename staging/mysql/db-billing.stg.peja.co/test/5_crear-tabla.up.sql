@@ -1,1 +1,1 @@
-insert into prueba(5, "234234234");
+insert into prueba values (5, "234234234");
